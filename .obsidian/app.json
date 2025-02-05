@@ -1,0 +1,15 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 95
+  },
+  "attachmentFolderPath": "99 - META/Attachments",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root",
+  "showUnsupportedFiles": true,
+  "vimMode": false,
+  "showInlineTitle": false
+}

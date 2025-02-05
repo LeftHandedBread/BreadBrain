@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - MAP/The Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6883c98def24564",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6db58a2a23460d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b4d2db43cfc0638",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27b8723f64ea8b01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "045f5bf86cb6a113",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "5b8b9860c2f2378c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "8193cfe082c0ab63",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-clock",
+              "title": "Web history"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f56230e3fd339193",
+    "type": "split",
+    "children": [
+      {
+        "id": "f91a020d8c67b59f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9b184f4fbb253e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6513ff97d921132",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notepad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notepad"
+            }
+          },
+          {
+            "id": "4f52792d0efbe41d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notepad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Notepad"
+            }
+          },
+          {
+            "id": "28ee67dce15fe91d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - MAP/The Map.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Map"
+            }
+          },
+          {
+            "id": "f393d361043a7ba5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "db1b2761fcf36cb1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Notepad.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Notepad"
+            }
+          },
+          {
+            "id": "4a21ad6cc6e9db8c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Create new canvas": true,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "templates:Insert template": false,
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "28ee67dce15fe91d",
+  "lastOpenFiles": [
+    "BreadBrain",
+    "00 - MAP/The Map.md",
+    "The Problem With Procedural Generation.md",
+    "Notepad.md",
+    "01 - PROJECTS/Abyssal Ascent Episode 2.md",
+    "99 - META/Templates/Notepad Template.md",
+    "Untitled.md",
+    "99 - META/Templates/Language Notes Template.md",
+    "99 - META/Templates/Random Note Template.md",
+    "99 - META/Templates/Video Script Template.md",
+    "99 - META/Templates/YouTube Note Template.md",
+    "02 - AREAS/Youtube Channel/Video Ideas.md",
+    "01 - PROJECTS/Minecraft Civilization Civilization.md",
+    "01 - PROJECTS/The Failure of Gem County, Idaho.md",
+    "99 - META/Attachments/9f1b5b46aed533f5386cf276ab2cdce48cbd2e25-2351369132.png",
+    "10 - META/Attachments/9f1b5b46aed533f5386cf276ab2cdce48cbd2e25-2351369132.png",
+    "01 - PROJECTS/How to make a minecraft server.md",
+    "99 - META/Preloaded Classes/202403091325 General Tweaks CSS Classes(1).md",
+    "99 - META/Preloaded Classes/202401211512 Notebook CSS Classes.md",
+    "06 - RANDOM/Setting up obsidian.md",
+    "10 - META/Attachments",
+    "10 - META",
+    "99 - META/Preloaded Classes",
+    "99 - META/Attachments",
+    "06 - RANDOM/Untitled.md",
+    "02 - AREAS/Youtube Channel",
+    "02 - AREAS/Untitled 1.md",
+    "02 - AREAS/Untitled.md",
+    "02 - AREAS/Minecraft",
+    "02 - AREAS/Chinese Studies",
+    "02 - AREAS/Japanese Studies",
+    "02 - AREAS/Computer Science",
+    "Setting up Obsidian.md",
+    "99 - META/Templates",
+    "Notes/Spain.md",
+    "Notes/European history.md",
+    "famous spanyard guy 1.md",
+    "05 - ARCHIVE/Outer Wilds and Fear.md",
+    "Untitled.canvas",
+    "Pasted image 20241209021445.png",
+    "Pasted image 20241209021438.png",
+    "Pasted image 20241124135221.png",
+    "Pasted image 20241124134521.png",
+    "Pasted image 20241124134033.png",
+    "Pasted image 20241124133703.png",
+    "Pasted image 20241012141643.png",
+    "Pasted image 20241012021127.png"
+  ]
+}

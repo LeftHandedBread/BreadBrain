@@ -1,0 +1,11 @@
+{
+  "accentColor": "#6f52ff",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "CyanVoxel's General Tweaks",
+    "Colored Sidebar Items",
+    "Japanese Font Support",
+    "Minecraft"
+  ]
+}
